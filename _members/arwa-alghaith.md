@@ -1,6 +1,6 @@
 ---
 name: Arwa Alghaith
-image: images/team/arwa_pfp.jpg
+image: images/team/arwa_pfp_cropped.jpg
 role: PhD Student
 group: alum
 links:
