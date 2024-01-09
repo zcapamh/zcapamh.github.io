@@ -1,9 +1,8 @@
 ---
-name: Xinyi
+name: Arwa Alghaith
 image: images/team/xinyi_pfp.jpg
 role: Researcher
 links:
-  email: sarah.johnson@gmail.com
   twitter: @XinyiS0921
 ---
 
