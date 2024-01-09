@@ -1,5 +1,5 @@
 ---
-name: Arwa Alghaith
+name: Xinyi
 image: images/team/xinyi_pfp.jpg
 role: Researcher
 links:
