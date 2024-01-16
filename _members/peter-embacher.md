@@ -3,7 +3,7 @@ name: Peter Embacher
 image: images/team/peter_pfp.jpg
 role: Postdoctoral Researcher
 links:
-  email: sarah.johnson@gmail.com
+  email: p.embacher%40ucl%2Eac%2Euk
   twitter: sarahjohnson
 ---
 
