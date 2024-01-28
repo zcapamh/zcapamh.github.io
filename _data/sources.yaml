@@ -1,5 +1,3 @@
 - id: doi:10.1093/neuonc/noac253
   image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
-  buttons:
-    - type: preprint
-      link: https://pubmed.ncbi.nlm.nih.gov/36402744/
+
