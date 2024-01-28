@@ -229,8 +229,5 @@
   date: '2022-11-19'
   link: https://doi.org/gtf6vt
   image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
-  buttons:
-  - type: preprint
-    link: https://pubmed.ncbi.nlm.nih.gov/36402744/
   plugin: sources.py
   file: sources.yaml
