@@ -2,7 +2,7 @@
   image: 
   
 - id: doi:10.1038/s41551-021-00710-3
-  image: images/research
+  image:
 
 - id: doi:10.1038/s41551-021-00710-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41551-021-00710-3/MediaObjects/41551_2021_710_Fig1_HTML.png?as=webp
