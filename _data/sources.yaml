@@ -2,7 +2,16 @@
   image: 
   
 - id: doi:https://doi.org/10.1038/s41551-021-00710-3
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666979X22001070-fx1.jpg
+  image: images/research
 
 - id: doi:10.1038/s41551-021-00710-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41551-021-00710-3/MediaObjects/41551_2021_710_Fig1_HTML.png?as=webp
+
+- id: doi:10.1016/j.ctro.2019.12.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630819301193-gr4.jpg
+
+- id: doi:10.1016/j.radonc.2019.10.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S016781401933453X-gr2a.jpg
+
+- id: doi: 10.1016/j.ctro.2017.11.009
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5862673/bin/gr4.gif
