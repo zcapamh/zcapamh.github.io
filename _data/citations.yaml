@@ -228,6 +228,52 @@
   publisher: Neuro-Oncology
   date: '2022-11-19'
   link: https://doi.org/gtf6vt
-  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100165
+  title: Spatial intra-tumor heterogeneity is associated with survival of lung adenocarcinoma
+    patients
+  authors:
+  - Hua-Jun Wu
+  - Daniel Temko
+  - Zoltan Maliga
+  - Andre L. Moreira
+  - Emi Sei
+  - Darlan Conterno Minussi
+  - Jamie Dean
+  - Charlotte Lee
+  - Qiong Xu
+  - Guillaume Hochart
+  - Connor A. Jacobson
+  - Clarence Yapp
+  - Denis Schapiro
+  - Peter K. Sorger
+  - Erin H. Seeley
+  - Nicholas Navin
+  - Robert J. Downey
+  - Franziska Michor
+  publisher: Cell Genomics
+  date: '2022-08-01'
+  link: https://doi.org/gtf6vx
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666979X22001070-fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41551-021-00710-3
+  title: Computational modelling of perivascular-niche dynamics for the optimization
+    of treatment schedules for glioblastoma
+  authors:
+  - Amanda Randles
+  - Hans-Georg Wirsching
+  - Jamie A. Dean
+  - Yu-Kang Cheng
+  - Samuel Emerson
+  - Siobhan S. Pattwell
+  - Eric C. Holland
+  - Franziska Michor
+  publisher: Nature Biomedical Engineering
+  date: '2021-04-16'
+  link: https://doi.org/gjskff
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41551-021-00710-3/MediaObjects/41551_2021_710_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
