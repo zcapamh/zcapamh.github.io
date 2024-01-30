@@ -275,7 +275,7 @@
   publisher: Clinical and Translational Radiation Oncology
   date: '2020-03-01'
   link: https://doi.org/gtgdqt
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630819301193-gr4.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7013161/bin/gr4.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.radonc.2019.10.017
@@ -305,6 +305,6 @@
   publisher: Radiotherapy and Oncology
   date: '2020-01-01'
   link: https://doi.org/gqwp47
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S016781401933453X-gr2a.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7005673/bin/gr2a.jpg
   plugin: sources.py
   file: sources.yaml
