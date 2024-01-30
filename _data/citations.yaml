@@ -308,3 +308,100 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7005673/bin/gr2a.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.ctro.2017.11.009
+  title: Incorporating spatial dose metrics in machine learning-based normal tissue
+    complication probability (NTCP) models of severe acute dysphagia resulting from
+    head and neck radiotherapy
+  authors:
+  - Jamie Dean
+  - Kee Wong
+  - Hiram Gay
+  - Liam Welsh
+  - Ann-Britt Jones
+  - Ulricke Schick
+  - Jung Hun Oh
+  - Aditya Apte
+  - Kate Newbold
+  - Shreerang Bhide
+  - Kevin Harrington
+  - Joseph Deasy
+  - Christopher Nutting
+  - Sarah Gulliford
+  publisher: Clinical and Translational Radiation Oncology
+  date: '2018-01-01'
+  link: https://doi.org/gtgdxj
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5862673/bin/gr4.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.clon.2016.12.001
+  title: Normal Tissue Complication Probability (NTCP) Modelling of Severe Acute Mucositis
+    using a Novel Oral Mucosal Surface Organ at Risk
+  authors:
+  - J.A. Dean
+  - L.C. Welsh
+  - K.H. Wong
+  - A. Aleksic
+  - E. Dunne
+  - M.R. Islam
+  - A. Patel
+  - P. Patel
+  - I. Petkar
+  - I. Phillips
+  - J. Sham
+  - U. Schick
+  - K.L. Newbold
+  - S.A. Bhide
+  - K.J. Harrington
+  - C.M. Nutting
+  - S.L. Gulliford
+  publisher: Clinical Oncology
+  date: '2017-04-01'
+  link: https://doi.org/gtgdxk
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6175048/bin/emss-79610-f001.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijrobp.2016.08.013
+  title: Functional Data Analysis Applied to Modeling of Severe Acute Mucositis and
+    Dysphagia Resulting From Head and Neck Radiation Therapy
+  authors:
+  - Jamie A. Dean
+  - Kee H. Wong
+  - Hiram Gay
+  - Liam C. Welsh
+  - Ann-Britt Jones
+  - Ulrike Schick
+  - Jung Hun Oh
+  - Aditya Apte
+  - Kate L. Newbold
+  - Shreerang A. Bhide
+  - Kevin J. Harrington
+  - Joseph O. Deasy
+  - Christopher M. Nutting
+  - Sarah L. Gulliford
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2016-11-01'
+  link: https://doi.org/gtgdxm
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.radonc.2016.05.015
+  title: Normal tissue complication probability (NTCP) modelling using spatial dose
+    metrics and machine learning methods for severe acute oral mucositis resulting
+    from head and neck radiotherapy
+  authors:
+  - Jamie A. Dean
+  - Kee H. Wong
+  - Liam C. Welsh
+  - Ann-Britt Jones
+  - Ulrike Schick
+  - Kate L. Newbold
+  - Shreerang A. Bhide
+  - Kevin J. Harrington
+  - Christopher M. Nutting
+  - Sarah L. Gulliford
+  publisher: Radiotherapy and Oncology
+  date: '2016-07-01'
+  link: https://doi.org/f8zvnr
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5021201/bin/emss-69061-f003.jpg
+  plugin: sources.py
+  file: sources.yaml
