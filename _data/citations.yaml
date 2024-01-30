@@ -231,24 +231,6 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:https://doi.org/10.1038/s41551-021-00710-3
-  title: Computational modelling of perivascular-niche dynamics for the optimization
-    of treatment schedules for glioblastoma
-  authors:
-  - Amanda Randles
-  - Hans-Georg Wirsching
-  - Jamie A. Dean
-  - Yu-Kang Cheng
-  - Samuel Emerson
-  - Siobhan S. Pattwell
-  - Eric C. Holland
-  - Franziska Michor
-  publisher: Nature Biomedical Engineering
-  date: '2021-04-01'
-  link: https://doi.org/gjskff
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666979X22001070-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41551-021-00710-3
   title: Computational modelling of perivascular-niche dynamics for the optimization
     of treatment schedules for glioblastoma
@@ -265,5 +247,64 @@
   date: '2021-04-16'
   link: https://doi.org/gjskff
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41551-021-00710-3/MediaObjects/41551_2021_710_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ctro.2019.12.006
+  title: Evaluation of erectile potency and radiation dose to the penile bulb using
+    image guided radiotherapy in the CHHiP trial
+  authors:
+  - Julia Murray
+  - Sarah Gulliford
+  - Clare Griffin
+  - Anna Wilkins
+  - Isabel Syndikus
+  - John Staffurth
+  - Miguel Panades
+  - Christopher Scrase
+  - Chris Parker
+  - Vincent Khoo
+  - Jamie Dean
+  - Helen Mayles
+  - Philip Mayles
+  - Simon Thomas
+  - Olivia Naismith
+  - Helen Mossop
+  - Clare Cruickshank
+  - Emma Hall
+  - David Dearnaley
+  publisher: Clinical and Translational Radiation Oncology
+  date: '2020-03-01'
+  link: https://doi.org/gtgdqt
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630819301193-gr4.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.radonc.2019.10.017
+  title: A randomised assessment of image guided radiotherapy within a phase 3 trial
+    of conventional or hypofractionated high dose intensity modulated radiotherapy
+    for prostate cancer
+  authors:
+  - Julia Murray
+  - Clare Griffin
+  - Sarah Gulliford
+  - Isabel Syndikus
+  - John Staffurth
+  - Miguel Panades
+  - Christopher Scrase
+  - Chris Parker
+  - Vincent Khoo
+  - Jamie Dean
+  - Helen Mayles
+  - Philip Mayles
+  - Simon Thomas
+  - Olivia Naismith
+  - Angela Baker
+  - Helen Mossop
+  - Clare Cruickshank
+  - Emma Hall
+  - David Dearnaley
+  publisher: Radiotherapy and Oncology
+  date: '2020-01-01'
+  link: https://doi.org/gqwp47
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S016781401933453X-gr2a.jpg
   plugin: sources.py
   file: sources.yaml
