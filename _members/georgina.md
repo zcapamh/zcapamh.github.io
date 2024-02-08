@@ -5,8 +5,7 @@ role: PhD Student
 
 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: georgina.al-badri%40ucl%2Eac%2Euk
 ---
 
 Georgina obtained an MSc in Mathematics and Physics, followed by a PhD in Mathematical Biology at UCL. Georgina is combining single-cell transcriptomics data with mathematical modelling to infer cell-cell communication in radioresistant glioblastoma models.
